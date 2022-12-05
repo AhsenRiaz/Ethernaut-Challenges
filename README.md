@@ -1,9 +1,0 @@
-# Contract Addresses
-
-CoinioToken: 0xf9e731bFBd230639C0F76BeBfA12b0fb83B3b41A
-
-NounsToken: 0x0fD0170AAe3Eb8dfC8Da37B5B85E999150438eEd
-
-FanToken: 0x525ea655a70ed397eb5005530bfaece8ee08e4e1
-
-Swapper: 0x13233d083799c062d1b58d32eb4e07c1e1877254
