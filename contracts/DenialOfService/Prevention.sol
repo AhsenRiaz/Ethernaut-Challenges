@@ -28,7 +28,7 @@ contract Prevention {
         require(msg.sender != king);
         uint balance = balances[msg.sender];
         balances[msg.sender] = 0;
-       (bool success, ) = payable(msg.sender).call{value: balance}("");
+       (bool success, ) = msg.sender.call{value: balance}("");
        require(success);
 
     }
